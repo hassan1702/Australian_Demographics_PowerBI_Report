@@ -108,7 +108,7 @@ The Power BI report features **three interactive dashboards**, each tailored to 
 | Tool                 | Purpose                                |
 | -------------------- | -------------------------------------- |
 | **Power BI Desktop** | Data modeling, ETL, dashboards         |
-| *(Optional)* Excel   | Preliminary cleaning/lookups (if used) |
+| ** Excel   | Preliminary cleaning/lookups |
 
 ---
 
