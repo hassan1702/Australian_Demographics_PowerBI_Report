@@ -53,18 +53,22 @@ Key dataset dimensions:
 The Power BI report features **three interactive dashboards**, each tailored to specific analytic goals:
 
 ### 1. 🔍 **Overall Population Trends**
+<img width="1274" height="726" alt="Screenshot 2025-07-30 at 2 08 59 pm" src="https://github.com/user-attachments/assets/f27a8b6e-1d82-45f2-855f-e0a4c7a75340" />
 
 * National population growth (1996–2016)
 * Distribution by state/territory
 * Sex and broad age group breakdowns
 
 ### 2. 🌐 **Country of Birth (COB) Insights**
+<img width="1273" height="729" alt="Screenshot 2025-07-30 at 2 10 10 pm" src="https://github.com/user-attachments/assets/d4dd7617-80df-4095-87a1-7c20bd2a3193" />
+
 
 * Focus on Australia + 9 selected overseas countries
 * Trends by age, sex, and geographic distribution
 * Comparison across census years
 
 ### 3. 📌 **Demographic Deep Dives**
+<img width="1277" height="728" alt="Screenshot 2025-07-30 at 2 09 36 pm" src="https://github.com/user-attachments/assets/99c2eab1-b2a7-4b79-8c35-9dedbfe430d9" />
 
 * Key trends and patterns:
 
