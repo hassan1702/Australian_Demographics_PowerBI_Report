@@ -1,6 +1,3 @@
-Here is a **visually appealing, GitHub-friendly version** of your project README. This version uses Markdown best practices with clear formatting, headers, and emojis to enhance readability and engagement:
-
----
 
 # 🇦🇺 Australian Population Demographics Analysis (1996–2016)
 
@@ -129,11 +126,3 @@ See the [LICENSE](./LICENSE) file for details.
 📧 [hassan\_md@live.com](mailto:hassan_md@live.com)
 
 ---
-
-Let me know if you'd like:
-
-* A custom **banner image** or **badge section**
-* **GIF preview** of the dashboard
-* A **shorter version** for top-level overview
-
-I can also help you design a nice repository cover README image using your actual report screenshots.
